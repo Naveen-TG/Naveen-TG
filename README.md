@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate with Telegraph 😆
 - 📫 You can reach me by Contacting here👇
-<h3 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋<img align="center" src="https://github.com/PANDITHAN/PANDITHAN/blob/main/assets/Handshake.gif" height="33px" /></h3>
+<h3 align="center">𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙃𝙀𝙍𝙀<img align="center" src="https://github.com/PANDITHAN/PANDITHAN/blob/main/assets/Handshake.gif" height="33px" /></h3>
 <p align="center">
 <a href="https://t.me/Naveen_TG"><img alt="Telegram" src="https://img.shields.io/badge/ME-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
