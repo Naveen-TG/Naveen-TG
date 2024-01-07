@@ -1,4 +1,4 @@
-# Wᴇʟᴄᴏᴍᴇ ᴛᴏ {} GɪᴛHᴜʙ Pʀᴏғɪʟᴇ 👋
+# Wᴇʟᴄᴏᴍᴇ ᴛᴏ GɪᴛHᴜʙ Pʀᴏғɪʟᴇ 👋
 <pre align="left">
 <img align="left" width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px">
 
